@@ -1,3 +1,5 @@
+# https://www.quantconnect.com/reports/425e8b343b448f70fb1a06310e9b936e
+
 class ThreeWhiteSoldiers(QCAlgorithm):
 
     def Initialize(self):
